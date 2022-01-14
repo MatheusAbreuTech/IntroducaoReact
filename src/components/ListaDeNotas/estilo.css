@@ -1,0 +1,16 @@
+.lista-notas {
+    display: flex;
+    width: 800px;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+.item-lista {
+    list-style: none;
+    background: #ccc;
+    padding: 2rem;
+    border-radius: 5px;
+    width: 250px;
+}
